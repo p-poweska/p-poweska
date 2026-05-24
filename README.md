@@ -39,10 +39,10 @@
   ### 03 · stats
 
   <p>
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=p-poweska&show_icons=true&hide_border=true&bg_color=0909
-  0B&title_color=A3E635&icon_color=A3E635&text_color=FAFAFA&cache_seconds=86400" />
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-poweska&layout=compact&hide_border=true&bg
-  _color=09090B&title_color=A3E635&text_color=FAFAFA&cache_seconds=86400&langs_count=8" />
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats-mc13.vercel.app/api?username=p-poweska&show_icons=true&hide_border=true&bg_color=09090B&t
+  itle_color=A3E635&icon_color=A3E635&text_color=FAFAFA" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats-mc13.vercel.app/api/top-langs/?username=p-poweska&layout=compact&hide_border=true&bg_col
+  or=09090B&title_color=A3E635&text_color=FAFAFA&langs_count=8" />
   </p>
 
   ### 04 · contact

@@ -38,13 +38,11 @@
 
   ### 03 · stats
 
-  <p>
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats-mc13.vercel.app/api?username=p-poweska&v=2&show_icons=true&hide_border=true&bg_color=09090B&t
-  itle_color=A3E635&icon_color=A3E635&text_color=FAFAFA" />
-    <img height="170" alt="Top languages" src="https://github-readme-stats-mc13.vercel.app/api/top-langs/?username=p-poweska&v=2&layout=compact&hide_border=true&bg_col
-  or=09090B&title_color=A3E635&text_color=FAFAFA&langs_count=8" />
+   <p>
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats-mc13.vercel.app/api?username=p-poweska&v=3&show_icons=true&hide_border=true&bg_color=09090B&title_color=A3E635&icon_color=A3E635&text_color=FAFAFA" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats-mc13.vercel.app/api/top-langs/?username=p-poweska&v=3&layout=compact&hide_border=true&bg_color=09090B&title_color=A3E635&text_color=FAFAFA&langs_count=8" />
   </p>
-
+  
   ### 04 · contact
 
   - 🌐 [poweska.dev](https://poweska.dev)

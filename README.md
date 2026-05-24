@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**p-poweska/p-poweska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # hey, I'm Paweł 👋
 
-Here are some ideas to get you started:
+  **Fullstack Developer** · CS student @ University of Rzeszów
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://poweska.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=A3E635&center=true&vCenter=true&width=500&lines=%3E
+  +fullstack+developer;%3E+open+to+internship;%3E+JavaScript+enjoyer" alt="Typing" />
+  </a>
+
+  <p>
+    <a href="https://poweska.dev"><img src="https://img.shields.io/badge/poweska.dev-A3E635?style=flat-square&labelColor=09090B" alt="website" /></a>
+    <a href="mailto:pawel@poweska.dev"><img
+  src="https://img.shields.io/badge/pawel@poweska.dev-A3E635?style=flat-square&logo=gmail&logoColor=09090B&labelColor=09090B" alt="email" /></a>
+  </p>
+
+  </div>
+
+  ---
+
+  ### 01 · about
+
+  ```ts
+  const pawel = {
+    role: "Fullstack Developer",
+    status: "CS student",
+    university: "University of Rzeszów",
+    location: "Rzeszów, Poland 🇵🇱",
+    yearsCoding: "4+",
+    currentlyLearning: ["TypeScript", "Spring Boot", "system design"],
+    lookingFor: "an interesting internship 🚀",
+  };
+  ```
+
+  ### 02 · stack
+
+  ![Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,express,html,css,python,flask,django,java,kotlin,spring,mongodb,git,docker)
+
+  ### 03 · stats
+
+  <p>
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=p-poweska&show_icons=true&hide_border=true&bg_color=0909
+  0B&title_color=A3E635&icon_color=A3E635&text_color=FAFAFA&cache_seconds=86400" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-poweska&layout=compact&hide_border=true&bg
+  _color=09090B&title_color=A3E635&text_color=FAFAFA&cache_seconds=86400&langs_count=8" />
+  </p>
+
+  ### 04 · contact
+
+  - 🌐 [poweska.dev](https://poweska.dev)
+  - ✉️ [pawel@poweska.dev](mailto:pawel@poweska.dev)
+  - 🐙 [github.com/p-poweska](https://github.com/p-poweska)
+
+  ---

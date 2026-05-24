@@ -5,8 +5,7 @@
   **Fullstack Developer** · CS student @ University of Rzeszów
 
   <a href="https://poweska.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=A3E635&center=true&vCenter=true&width=500&lines=%3E
-  +fullstack+developer;%3E+open+to+internship;%3E+JavaScript+enjoyer" alt="Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70CCE&center=true&width=435&lines=fullstack+developer;JavaScript+enjoyer;open+to+internship;God+of+Code" alt="Typing SVG" />
   </a>
 
   <p>
